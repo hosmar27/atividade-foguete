@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(0deg,darkblue,black);
+    overflow: hidden;
+}
+.foguete
+{
+    position: absolute;
+    left: 50%;
+    margin-left: -40px;
+    top: 100vh;
+    margin-top: -80px;
+}
+.chao
+{
+    width: 500px;
+    height: 500px;
+    left: 600px;
+    top: 50vh;
+    position: absolute;
+}
